@@ -1,0 +1,69 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<div class="jumbotron">
+    <h1>Music Rental App</h1>
+
+    <p class="lead">Register customers, add music, and checkout rentals from this app.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>@Html.ActionLink("Customers", "Index", "Customers")</h2>
+        <p>
+            We want to treat our customers with best attitude and quality.
+        </p>
+        <p><a class="btn btn-default" href="https://www.apple.com/itunes/music/">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>@Html.ActionLink("Music", "Index", "Music")</h2>
+        <p>
+            "Music is the soul of art."
+        </p>
+        <p><a class="btn btn-default" href="https://www.apple.com/itunes/music/">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>@Html.ActionLink("Rentals", "Index", "Rentals")</h2>
+        <p>
+            Rent the best music from Apple ITunes Store.
+        </p>
+        <p><a class="btn btn-default" href="https://www.apple.com/itunes/music/">Learn more &raquo;</a></p>
+    </div>
+</div>
+
+
+@{string status = @ViewBag.Status; }
+@{if (status.Equals("Running"))
+    {
+        <h3>Service management</h3>
+        <p>The backUp service is : @ViewBag.Status</p>
+        using (Html.BeginForm("StartService", "Home"))
+        {
+            <input id="startbtn" type="submit" value="Stop" disabled />
+        }
+        using (Html.BeginForm("StopService", "Home"))
+        {
+            <input id="stopbtn" type="submit" value="Stop" />
+        }
+    }
+    else
+    {
+        <h3>Service management</h3>
+        <p>The backUp service is : @ViewBag.Status</p>
+        using (Html.BeginForm("StartService", "Home"))
+        {
+            <input id="startbtn" type="submit" value="Start"/>
+        }
+        using (Html.BeginForm("StopService", "Home"))
+        {
+            <input id="stopbtn" type="submit" value="Stop" disabled/>
+        }
+
+    }
+}
+
+
+
+
+

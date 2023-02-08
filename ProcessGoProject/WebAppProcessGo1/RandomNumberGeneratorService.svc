@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WebAppProcessGo1.RandomNumberGeneratorService" CodeBehind="RandomNumberGeneratorService.svc.cs" %>

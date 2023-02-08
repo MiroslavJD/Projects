@@ -1,0 +1,17 @@
+C:\Users\MiroslavJD\source\repos\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.csproj.CoreCompileInputs.cache
+C:\Users\MiroslavJD\source\repos\ProcessGo\ProcessGo1.UsingDLL\bin\Debug\ProcessGo1.UsingDLL.dll
+C:\Users\MiroslavJD\source\repos\ProcessGo\ProcessGo1.UsingDLL\bin\Debug\ProcessGo1.UsingDLL.pdb
+C:\Users\MiroslavJD\source\repos\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.dll
+C:\Users\MiroslavJD\source\repos\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.pdb
+C:\Users\MiroslavJD\source\repos\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.csprojAssemblyReference.cache
+C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\bin\Debug\ProcessGo1.UsingDLL.dll
+C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\bin\Debug\ProcessGo1.UsingDLL.pdb
+C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.csproj.CoreCompileInputs.cache
+C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.dll
+C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.pdb
+C:\Users\MiroslavJD1\Desktop\Coding\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\bin\Debug\ProcessGo1.UsingDLL.dll
+C:\Users\MiroslavJD1\Desktop\Coding\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\bin\Debug\ProcessGo1.UsingDLL.pdb
+C:\Users\MiroslavJD1\Desktop\Coding\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.csproj.AssemblyReference.cache
+C:\Users\MiroslavJD1\Desktop\Coding\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.csproj.CoreCompileInputs.cache
+C:\Users\MiroslavJD1\Desktop\Coding\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.dll
+C:\Users\MiroslavJD1\Desktop\Coding\ProcessGo\ProcessGo\ProcessGo1.UsingDLL\obj\Debug\ProcessGo1.UsingDLL.pdb

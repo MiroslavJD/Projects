@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="470297a0-daf8-4b79-8968-15d56936db7a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:64786/RandomNumberGeneratorService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RandomNumberGeneratorService.disco" MetadataType="Disco" ID="b8665916-5e15-47f9-bb35-c0c8043872d8" SourceId="1" SourceUrl="http://localhost:64786/RandomNumberGeneratorService.svc?disco" />
+    <MetadataFile FileName="RandomNumberGeneratorService.xsd" MetadataType="Schema" ID="3c5491ef-39b6-49e4-b046-188dd53ed863" SourceId="1" SourceUrl="http://localhost:64786/RandomNumberGeneratorService.svc?xsd=xsd2" />
+    <MetadataFile FileName="RandomNumberGeneratorService.wsdl" MetadataType="Wsdl" ID="2f0fe8e7-5a36-48f8-94ce-05dd5c33ee46" SourceId="1" SourceUrl="http://localhost:64786/RandomNumberGeneratorService.svc?wsdl" />
+    <MetadataFile FileName="RandomNumberGeneratorService1.xsd" MetadataType="Schema" ID="6f73c274-3c61-440b-8be8-033dd7b55340" SourceId="1" SourceUrl="http://localhost:64786/RandomNumberGeneratorService.svc?xsd=xsd1" />
+    <MetadataFile FileName="RandomNumberGeneratorService2.xsd" MetadataType="Schema" ID="62f6f810-a1b5-48ff-97d8-03fbb6b38c69" SourceId="1" SourceUrl="http://localhost:64786/RandomNumberGeneratorService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

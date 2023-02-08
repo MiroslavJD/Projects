@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1Service\bin\Debug\ProcessGo1Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1Service\bin\Debug\ProcessGo1Service.InstallLog
+   assemblypath = C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1Service\bin\Debug\ProcessGo1Service.exe
+Installing service ProcessGo1Service...
+Creating EventLog source ProcessGo1Service in log Application...
+Rolling back assembly 'C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1Service\bin\Debug\ProcessGo1Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1Service\bin\Debug\ProcessGo1Service.InstallLog
+   assemblypath = C:\Users\Prince\Desktop\ProcessGo\ProcessGo\ProcessGo1Service\bin\Debug\ProcessGo1Service.exe
+Restoring event log to previous state for source ProcessGo1Service.
